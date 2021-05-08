@@ -1,0 +1,56 @@
+.myTeamHeading {
+   height: 100px;
+   position: relative;
+   background-color: #713C30;
+   color: white;
+   font-size: 20px;
+   font-family: 'Courier New', Courier, monospace;
+   animation-name: example;
+   animation-duration: 4s;
+}
+@keyframes example {
+   from {background-color:black;}
+   to {background-color: #543C37;}
+   from {background-color:lightgray;}
+   to {background-color: wheat;}     
+}
+.center {
+   margin: 0;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+}
+.body {
+   height: 100px;
+   width: 100%;
+}
+.container {
+   display: table;
+   height: 150px;
+   margin: 4px;
+   width: 300px;
+   border: solid 1px;
+   font-family: 'Courier New', Courier, monospace;
+}
+.leftcontainer {
+   height: 150px;
+   margin: 4px;
+   float: clear;
+   width: 300px;
+   border: solid 1px;
+   font-family: 'Courier New', Courier, monospace;
+}
+.head {
+   background-color:#B09792;
+   color: white;
+   font-family: 'Courier New', Courier, monospace;
+}
+.row  {
+   display: table-row;
+}
+
+.left, .right, .middle {
+    display: table-cell
+ }
