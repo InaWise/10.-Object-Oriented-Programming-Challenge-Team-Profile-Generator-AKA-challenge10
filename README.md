@@ -1,9 +1,5 @@
 # challenge-10
 
-
-
-# Note Taker Starter Code
-
  This application will use an Express.js back end and will save and retrieve note data from a JSON file.
  
  # Table of Contents 
@@ -15,7 +11,7 @@
 
 ## Description
 
-challenge this week is to 
+Challenge this week builds a Node.js command-line application
 
 ## Installation:
 In order to install the neccesary dependencies,Inquirer package ,and Jest package. To run node index.js
