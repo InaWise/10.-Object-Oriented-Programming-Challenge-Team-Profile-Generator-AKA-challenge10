@@ -14,7 +14,7 @@
 Challenge this week builds a Node.js command-line application
 
 ## Installation:
-In order to install the neccesary dependencies,Inquirer package ,and Jest package. To run node index.js
+In order to install the neccesary dependencies, Inquirer package ,and Jest package. To run node index.js
 
 
 ## Repository
